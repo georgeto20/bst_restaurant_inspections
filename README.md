@@ -2,7 +2,7 @@ This repo contains the code for the project in my Data Structures course, which 
 
 The main program is RestaurantInfo.java. The command-line execution of the program has the following format:
 
-<span style="font-family: courier">java Restaurant_Inspection_Results_X.csv print.txt output.txt</span>
+<code>java Restaurant_Inspection_Results_X.csv print.txt output.txt</code>
 
 where Restaurant_Inspection_Results_X.csv is the dataset for a particular borough or year, print.txt contains the search criteria, and output.txt is the file to which the results are written. Note that print.txt must contain the search function that we are applying to the data and the value of the field by which we are searching.
 
