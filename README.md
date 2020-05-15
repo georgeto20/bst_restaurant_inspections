@@ -1,4 +1,4 @@
-This repo contains the code for the project in my Data Structures course, which I took as a freshman during Spring 2016. The project involved writing functions to analyze a dataset of restaurant inspection records in New York City. For example, we can search for restaurants by their name, or we can find all restaurants that received an inspection in the first several days of a given year.
+This repo contains the code for the project in my Data Structures course, which I took as a freshman during Spring 2016. The project involved writing functions to analyze a dataset of restaurant inspection records in New York City. For example, we can search for restaurants by their name, find all restaurants that received a given score, or find those that received an inspection in the first several days of a given year.
 
 The main program is RestaurantInfo.java. The command-line execution of the program has the following format:
 
