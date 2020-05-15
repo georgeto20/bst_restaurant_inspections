@@ -1,0 +1,3 @@
+findByNameAddress "Great Jones Cafe" "54 Great Jones St" all
+print
+

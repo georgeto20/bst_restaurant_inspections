@@ -1,0 +1,5 @@
+Restaurant_Inspection_Results_2014.csv filter=lfs diff=lfs merge=lfs -text
+Restaurant_Inspection_Results_2015.csv filter=lfs diff=lfs merge=lfs -text
+Restaurant_Inspection_Results_Manhattan.csv filter=lfs diff=lfs merge=lfs -text
+Restaurant_Inspection_Results_All.csv filter=lfs diff=lfs merge=lfs -text
+*csv filter=lfs diff=lfs merge=lfs -text

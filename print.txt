@@ -1,0 +1,2 @@
+findByDate 6
+print
